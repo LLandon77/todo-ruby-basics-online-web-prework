@@ -19,7 +19,9 @@ def return_a_value(phrase)
 
 end
 
-def last_evaluated_value
+def last_evaluated_value("Expert")
+  puts last_evaluated_value
+  last_evaluated_value
 
 end
 
