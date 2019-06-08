@@ -15,7 +15,8 @@ def greeting("Hi there, ",name)
 end
 
 def return_a_value(phrase)
-  phrase = "Nice"
+  puts return_a_value
+  return_a_value
 
 end
 
