@@ -1,5 +1,5 @@
 def division(num1, num2)
- 1/2
+ 8 / 4
 end
 
 def assign_variable(value)
