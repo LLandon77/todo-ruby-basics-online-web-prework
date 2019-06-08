@@ -10,8 +10,9 @@ def argue(phrase)
   phrase = "Your opinion sucks!"
 end
 
-def greeting
-
+def greeting("Hi there, ",name)
+  puts greeting
+  greeting
 end
 
 def return_a_value
